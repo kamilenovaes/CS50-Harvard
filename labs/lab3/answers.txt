@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: nos 50.000 em ordem demorou menos, então se supõe omega(n)
+
+sort2 uses: merge sort
+
+How do you know?: melhor desempenho na maioria dos casos
+
+sort3 uses: selection sort
+
+How do you know?: demorou mais números em ordem do que os outros 'sort' (omega(n²))
